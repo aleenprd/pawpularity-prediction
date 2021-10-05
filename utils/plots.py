@@ -58,3 +58,18 @@ def make_correlation_matrix(df:pd.DataFrame, dataName:str, savePath=None,)->sns.
         plt.savefig(f"{savePath}\\corr_matrix_{dataName}.jpeg")
     plt.show()
     plt.clf()
+
+def get_xgb_feature_importance(model, modelName, df, path):
+    importance = pd.DataFrame({
+        'features': df.columns,
+        'importance': model.feature_importances_
+    })
+    importance.sort_values(by='importance', inplace=True)
+    threshold = 0.005
+    importance = importance[importance['importance'] >= threshold]
+    plt.figure(figsize=(12, 16))
+    plt.barh(importance['features'], importance['importance'])
+    plt.title(f'{modelName} Feature Importance')
+    plt.savefig(f"{path}\\{modelName}_features.png", dpi=300)
+    plt.show()
+    plt.clf()

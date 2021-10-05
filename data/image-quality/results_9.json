@@ -1,0 +1,2002 @@
+[
+  {
+    "image_id": "66356731b6c1f704e330620b7374ef19",
+    "mean_score_prediction": 4.747635681182146
+  },
+  {
+    "image_id": "6637c2065d7f20b8824b32df03dfac6f",
+    "mean_score_prediction": 4.937645107507706
+  },
+  {
+    "image_id": "66395b1d53e2d86632770a96405ad5f8",
+    "mean_score_prediction": 5.194719962775707
+  },
+  {
+    "image_id": "663f0c53db42d7075d2a1da331387911",
+    "mean_score_prediction": 4.321680214256048
+  },
+  {
+    "image_id": "6640be1825ed88a95d76b9f324916078",
+    "mean_score_prediction": 5.164771355688572
+  },
+  {
+    "image_id": "6640bfef57ed16a52e78c598c38a7d8a",
+    "mean_score_prediction": 5.165900237858295
+  },
+  {
+    "image_id": "66575f6e46929623dc4ab12b4ab592e8",
+    "mean_score_prediction": 5.436902035027742
+  },
+  {
+    "image_id": "665d0944f1c4d2ff4dd008290a3cb8a6",
+    "mean_score_prediction": 5.010546661913395
+  },
+  {
+    "image_id": "6664e1c3809e5c94883afcf6aae9888a",
+    "mean_score_prediction": 5.846762426197529
+  },
+  {
+    "image_id": "66661fa17ed1bf88ebf9515d8d8e53b3",
+    "mean_score_prediction": 4.7594378888607025
+  },
+  {
+    "image_id": "666cdaab3bfe4fea1f97e06660bdc955",
+    "mean_score_prediction": 4.9016308933496475
+  },
+  {
+    "image_id": "6675e27df657c4b9c3c7b0c85d22bdaf",
+    "mean_score_prediction": 4.809833887964487
+  },
+  {
+    "image_id": "667e48bab3286f5379d2c33e1a34221a",
+    "mean_score_prediction": 5.334698058664799
+  },
+  {
+    "image_id": "667fac36df42415044f3fdce8927bdb4",
+    "mean_score_prediction": 4.768121361732483
+  },
+  {
+    "image_id": "66884eea734a0a896f66c93a007bc19e",
+    "mean_score_prediction": 5.375693969428539
+  },
+  {
+    "image_id": "668c4932a6c933016e8df8349e68d20a",
+    "mean_score_prediction": 5.306995242834091
+  },
+  {
+    "image_id": "668c640a3cbe3a3c9fd7389eb996f095",
+    "mean_score_prediction": 5.53898049145937
+  },
+  {
+    "image_id": "668cb4b6ecc563bac8ec8a5933067ea9",
+    "mean_score_prediction": 5.128260161727667
+  },
+  {
+    "image_id": "66a3675ab9746571cf9e7ad256fc9c48",
+    "mean_score_prediction": 5.14999870210886
+  },
+  {
+    "image_id": "66a5390456128efec86377dcd0adaf1f",
+    "mean_score_prediction": 5.726651880890131
+  },
+  {
+    "image_id": "66a66568463bdd60a07b488ec98e60f1",
+    "mean_score_prediction": 5.013930842280388
+  },
+  {
+    "image_id": "66a7985f13cd93cc192b1c960a79c8a0",
+    "mean_score_prediction": 4.389372728765011
+  },
+  {
+    "image_id": "66abc11eebf20718f69b8652ad327d05",
+    "mean_score_prediction": 5.453206490725279
+  },
+  {
+    "image_id": "66aff831ca6d41eece44bade2268a9f5",
+    "mean_score_prediction": 4.016240905970335
+  },
+  {
+    "image_id": "66b61256520054ab0e48c40983af43b8",
+    "mean_score_prediction": 4.607087142765522
+  },
+  {
+    "image_id": "66b6d6d47a8b71f42fc16c56311e7424",
+    "mean_score_prediction": 5.217395380139351
+  },
+  {
+    "image_id": "66b83d603b1c6fe3eee60ef0a03632c0",
+    "mean_score_prediction": 4.966184075921774
+  },
+  {
+    "image_id": "66b86c2c00f8afb6dd755b729149ed0e",
+    "mean_score_prediction": 4.446581605821848
+  },
+  {
+    "image_id": "66b89a6b1940d75cf352b00f5630917f",
+    "mean_score_prediction": 4.312545709311962
+  },
+  {
+    "image_id": "66b8f078759749700481d44626cba641",
+    "mean_score_prediction": 5.728767670691013
+  },
+  {
+    "image_id": "66bcb217353bb0ed88255064b28ceaf6",
+    "mean_score_prediction": 4.946677252650261
+  },
+  {
+    "image_id": "66cb53bdbbe8691776099cb72261ec2b",
+    "mean_score_prediction": 5.35670705512166
+  },
+  {
+    "image_id": "66df405b9b97960d50b6f1e32f1f28c7",
+    "mean_score_prediction": 5.575629785656929
+  },
+  {
+    "image_id": "66e726aa26c03cb5045569b8ad34d034",
+    "mean_score_prediction": 5.892438754439354
+  },
+  {
+    "image_id": "66ec9025d8624b75a15ee008082062e2",
+    "mean_score_prediction": 4.95068696886301
+  },
+  {
+    "image_id": "66f005563c09aee498e403b9762f23a3",
+    "mean_score_prediction": 4.289034377783537
+  },
+  {
+    "image_id": "66f885b81ec74adb94633165f23955f8",
+    "mean_score_prediction": 4.776683408766985
+  },
+  {
+    "image_id": "66fc2174ac36836f3ac30b05dd2af1fb",
+    "mean_score_prediction": 4.6462008357048035
+  },
+  {
+    "image_id": "670436a4bbe91bc0d718e9ab8de27eb8",
+    "mean_score_prediction": 6.148536112159491
+  },
+  {
+    "image_id": "6705f59ae8b3051f0bc6cbbbf0c77c6e",
+    "mean_score_prediction": 5.444222643971443
+  },
+  {
+    "image_id": "67061fab89f5bf1ed1879f425581296c",
+    "mean_score_prediction": 5.058482505381107
+  },
+  {
+    "image_id": "6707c9174d0d13cc40612b44cde8804f",
+    "mean_score_prediction": 5.2272705882787704
+  },
+  {
+    "image_id": "6711ebd6f5cbadf26d51be9a2fb04b1c",
+    "mean_score_prediction": 4.8445984572172165
+  },
+  {
+    "image_id": "67144a2930491b6a5a0c367e83dc5506",
+    "mean_score_prediction": 5.198571763932705
+  },
+  {
+    "image_id": "67171bba8e2e15cc8b0f38acada7b788",
+    "mean_score_prediction": 4.870733812451363
+  },
+  {
+    "image_id": "671781ae989b7f43e886bd5d742746f5",
+    "mean_score_prediction": 4.798501119017601
+  },
+  {
+    "image_id": "672f95a4d7b1cb280ae1be1078af69ca",
+    "mean_score_prediction": 4.110398832708597
+  },
+  {
+    "image_id": "673743f1a6e6057b057d02f8be1955b9",
+    "mean_score_prediction": 5.4033883437514305
+  },
+  {
+    "image_id": "6737ffdb56858ecefa870ca646f22059",
+    "mean_score_prediction": 4.787085883319378
+  },
+  {
+    "image_id": "673dd6c60561189e318e5fbf37efc135",
+    "mean_score_prediction": 5.2028951197862625
+  },
+  {
+    "image_id": "6743208b4bb2ec53f72b6f2f7c4d76ce",
+    "mean_score_prediction": 5.327845513820648
+  },
+  {
+    "image_id": "674f64f8b2383525d0a935d2a63ae732",
+    "mean_score_prediction": 4.807394802570343
+  },
+  {
+    "image_id": "6750f25f7f8cbc631a176605cc08e593",
+    "mean_score_prediction": 5.326093830168247
+  },
+  {
+    "image_id": "67517c0015e9b2bbcb408607ee2c531f",
+    "mean_score_prediction": 5.548971615731716
+  },
+  {
+    "image_id": "675f0c22748d070df4198c6ea763a97c",
+    "mean_score_prediction": 5.220842152833939
+  },
+  {
+    "image_id": "677049d2e6d65eec766c1304502a8e5f",
+    "mean_score_prediction": 5.296574018895626
+  },
+  {
+    "image_id": "67738be112b27d94220605910ee7f03f",
+    "mean_score_prediction": 5.25449063628912
+  },
+  {
+    "image_id": "677cdb7dc715f3ee3d63d9b8abd913c3",
+    "mean_score_prediction": 4.980250000953674
+  },
+  {
+    "image_id": "678359258627d0968f43d87759401634",
+    "mean_score_prediction": 5.889372896403074
+  },
+  {
+    "image_id": "678d44afb8ee54f964319f893d50d176",
+    "mean_score_prediction": 5.190734945237637
+  },
+  {
+    "image_id": "6790c079d3cc3db836e9163369eeade9",
+    "mean_score_prediction": 5.157836228609085
+  },
+  {
+    "image_id": "67940521f7edab6d043ed99201f778c1",
+    "mean_score_prediction": 3.976326148957014
+  },
+  {
+    "image_id": "6798bb812bc76d270b60b5ffe4d1c0bf",
+    "mean_score_prediction": 5.421931929886341
+  },
+  {
+    "image_id": "679e5f4d905065789f59ebb216f4b234",
+    "mean_score_prediction": 4.988920450210571
+  },
+  {
+    "image_id": "67b2ae53cf7ccfb8a50fa86e2337da65",
+    "mean_score_prediction": 5.749553643167019
+  },
+  {
+    "image_id": "67b54e0691fe88de375c7fe68f322b10",
+    "mean_score_prediction": 5.539309613406658
+  },
+  {
+    "image_id": "67b567e393ae0d494944bb5eefed73ae",
+    "mean_score_prediction": 5.62225241959095
+  },
+  {
+    "image_id": "67b5e00cf331f3c9bb8200013a11cf81",
+    "mean_score_prediction": 5.511121086776257
+  },
+  {
+    "image_id": "67b60d72f434e24bbb9570f9f69f7906",
+    "mean_score_prediction": 5.10424680262804
+  },
+  {
+    "image_id": "67b650e98088635c02ad5d0364f7b453",
+    "mean_score_prediction": 4.772100001573563
+  },
+  {
+    "image_id": "67ba1f78c6db15816fc74e80f4301fd4",
+    "mean_score_prediction": 4.497005172073841
+  },
+  {
+    "image_id": "67c087554562b9aa459bf083f6f83214",
+    "mean_score_prediction": 5.141268230974674
+  },
+  {
+    "image_id": "67c2e7224ce3a9e0219ce8f8ecaa35c2",
+    "mean_score_prediction": 5.395006246864796
+  },
+  {
+    "image_id": "67c6cbafe2a259c3bc734294b27fd3b7",
+    "mean_score_prediction": 5.6891294084489346
+  },
+  {
+    "image_id": "67caec1b64a9d661e96b073b70dd911c",
+    "mean_score_prediction": 4.908920109272003
+  },
+  {
+    "image_id": "67cb8d8a364397bde53e3ba2b7ef2f4c",
+    "mean_score_prediction": 5.764788698405027
+  },
+  {
+    "image_id": "67debb65c56887c4108621f85ca02658",
+    "mean_score_prediction": 5.55282099917531
+  },
+  {
+    "image_id": "67e97de8ec7ddcda59a58b027263cdcc",
+    "mean_score_prediction": 4.774830669164658
+  },
+  {
+    "image_id": "67e997ad3fc0af598fc41bf16135ec33",
+    "mean_score_prediction": 5.42247050255537
+  },
+  {
+    "image_id": "67f3ced95478486a0e48dc4a2951a058",
+    "mean_score_prediction": 5.832182463258505
+  },
+  {
+    "image_id": "68009d2c3811a30c51c63f4ac5ee98ad",
+    "mean_score_prediction": 4.59743183106184
+  },
+  {
+    "image_id": "6800d6fe08f5fed97233bd22dc9f05d6",
+    "mean_score_prediction": 5.401840277016163
+  },
+  {
+    "image_id": "680721e96fcfb8b858b012eabd1fa1ab",
+    "mean_score_prediction": 5.8765776343643665
+  },
+  {
+    "image_id": "6808caeb9b20472e777a9be78d5fe711",
+    "mean_score_prediction": 5.309938918799162
+  },
+  {
+    "image_id": "68192f0b96ecdb5d67b56e7530e03b72",
+    "mean_score_prediction": 5.003837913274765
+  },
+  {
+    "image_id": "6828b2300233cbf1c95317ed36b11b80",
+    "mean_score_prediction": 5.81650610640645
+  },
+  {
+    "image_id": "68291db7341eb2b7d2dcea7ed5f4122d",
+    "mean_score_prediction": 4.813992887735367
+  },
+  {
+    "image_id": "68318a175159a206f71964e8eb465675",
+    "mean_score_prediction": 5.137096486985683
+  },
+  {
+    "image_id": "68349aeb8f624fcb73c3875848d1ffa5",
+    "mean_score_prediction": 5.213557206094265
+  },
+  {
+    "image_id": "6837fd40fa925597c987b07e81004e5e",
+    "mean_score_prediction": 5.567301984876394
+  },
+  {
+    "image_id": "68490fdfe583a6d23feb0221a20b20de",
+    "mean_score_prediction": 5.4446139968931675
+  },
+  {
+    "image_id": "6852f77256f63f9c201bc89e4b445022",
+    "mean_score_prediction": 5.643167495727539
+  },
+  {
+    "image_id": "685ef7e609e0d968b580cdc1092eb890",
+    "mean_score_prediction": 5.271536372601986
+  },
+  {
+    "image_id": "685f7da30783c5c77406bde3987a5db1",
+    "mean_score_prediction": 5.555770758539438
+  },
+  {
+    "image_id": "686500ee1321fa948327bacf87608adc",
+    "mean_score_prediction": 5.0721901170909405
+  },
+  {
+    "image_id": "6865614b85e0c227a7945a69225d5984",
+    "mean_score_prediction": 5.737745214253664
+  },
+  {
+    "image_id": "6868bc817d007b61ed908aa3327a71c7",
+    "mean_score_prediction": 5.118877552449703
+  },
+  {
+    "image_id": "688dcda615a242a8003141ea7e658d6a",
+    "mean_score_prediction": 5.168305292725563
+  },
+  {
+    "image_id": "68910757dfb5f2caa40e576de75796f3",
+    "mean_score_prediction": 4.766573376953602
+  },
+  {
+    "image_id": "68921e4792c1930c1c8cf8b74d3d65d2",
+    "mean_score_prediction": 5.657053193077445
+  },
+  {
+    "image_id": "68975dacf1d6e1074a71d5cbb2f829c8",
+    "mean_score_prediction": 4.796076521277428
+  },
+  {
+    "image_id": "68988e5906b6b6829ed7a2d3805c48e7",
+    "mean_score_prediction": 4.795411016792059
+  },
+  {
+    "image_id": "68a0dc40fbab9a54b61adb3c8bd4edd5",
+    "mean_score_prediction": 4.727717250585556
+  },
+  {
+    "image_id": "68a4077113d40f70dea2393b5699b73e",
+    "mean_score_prediction": 5.318962879478931
+  },
+  {
+    "image_id": "68acf87fe639d713123948a7fcfba348",
+    "mean_score_prediction": 5.360900096595287
+  },
+  {
+    "image_id": "68b8c789a25d5cd2e97c6cd14f282bc3",
+    "mean_score_prediction": 4.908868193626404
+  },
+  {
+    "image_id": "68be0db51f04901f307c9c96273cfa56",
+    "mean_score_prediction": 5.16632616519928
+  },
+  {
+    "image_id": "68bf95338209ffec18f9857cfc2faf02",
+    "mean_score_prediction": 5.148101735860109
+  },
+  {
+    "image_id": "68bfe3981289354b515821234eeb4b30",
+    "mean_score_prediction": 4.4384337440133095
+  },
+  {
+    "image_id": "68c227c909e960a0788456daca4ec73c",
+    "mean_score_prediction": 5.247393436729908
+  },
+  {
+    "image_id": "68c3c37371c0c778a1a8d810d66b8c30",
+    "mean_score_prediction": 5.752126764506102
+  },
+  {
+    "image_id": "68c45f8583d3fc22bdc313bac7f1f1d1",
+    "mean_score_prediction": 5.356239002197981
+  },
+  {
+    "image_id": "68c719abdfe835794a39c70ee514aaae",
+    "mean_score_prediction": 5.295039109885693
+  },
+  {
+    "image_id": "68d9e83cd1dfad2023aea96490261977",
+    "mean_score_prediction": 4.6785676926374435
+  },
+  {
+    "image_id": "68db3878e0a313222ed7f26204641028",
+    "mean_score_prediction": 5.817878358066082
+  },
+  {
+    "image_id": "68dc80a907cebd1dcf9b0b3aa8bc77fe",
+    "mean_score_prediction": 4.9685340747237206
+  },
+  {
+    "image_id": "68e07a9baa580b165a9f3db54c3ea000",
+    "mean_score_prediction": 5.460882879793644
+  },
+  {
+    "image_id": "68e27255a4d7c04416488884df414882",
+    "mean_score_prediction": 5.314944617450237
+  },
+  {
+    "image_id": "68e55574e523cf1cdc17b60ce6cc2f60",
+    "mean_score_prediction": 4.837833523750305
+  },
+  {
+    "image_id": "68fe9f2af1c3c6e86e218a787a618815",
+    "mean_score_prediction": 5.420016281306744
+  },
+  {
+    "image_id": "68ffa26f8ae39a8548fed429d16723ae",
+    "mean_score_prediction": 5.6849993243813515
+  },
+  {
+    "image_id": "690577dc8b6ea2cff65d3bb4067040ed",
+    "mean_score_prediction": 4.852859742939472
+  },
+  {
+    "image_id": "6905b267172058f8eec2267b567de313",
+    "mean_score_prediction": 4.765539541840553
+  },
+  {
+    "image_id": "6909cca10c0c0caddaa2a2febfccf887",
+    "mean_score_prediction": 5.7004996202886105
+  },
+  {
+    "image_id": "69169c3305adb6a80486dac0143dc7e9",
+    "mean_score_prediction": 4.947086051106453
+  },
+  {
+    "image_id": "692ca95e66031194155f92c1016bc1a7",
+    "mean_score_prediction": 4.640727072954178
+  },
+  {
+    "image_id": "692e55130b096cee9237660e3719d6d6",
+    "mean_score_prediction": 5.601755227893591
+  },
+  {
+    "image_id": "6930d0324a42383bba5cb9ac2a8bd17c",
+    "mean_score_prediction": 5.0800260081887245
+  },
+  {
+    "image_id": "693a7827d437a2be5dd18a786bf76e03",
+    "mean_score_prediction": 5.175376273691654
+  },
+  {
+    "image_id": "693be160a7be19279f0aafd9ac767e94",
+    "mean_score_prediction": 5.974149750545621
+  },
+  {
+    "image_id": "6947f055e4e0ff141559bf97144efc38",
+    "mean_score_prediction": 4.55538172274828
+  },
+  {
+    "image_id": "696beb3baa43f97ae9ef44a53b2dbd42",
+    "mean_score_prediction": 4.946621555835009
+  },
+  {
+    "image_id": "6975e685a5df53d047ad0ed8d2cf92e9",
+    "mean_score_prediction": 5.580789476633072
+  },
+  {
+    "image_id": "697c4eac4b9988b943bc6274ffbd4017",
+    "mean_score_prediction": 5.058206029236317
+  },
+  {
+    "image_id": "6983a965250b8ede8e1ab7b1397792f4",
+    "mean_score_prediction": 5.550218470394611
+  },
+  {
+    "image_id": "69873f88734936e46d0ac5209d248ae2",
+    "mean_score_prediction": 5.450159672647715
+  },
+  {
+    "image_id": "699060eee79ec550606eda05635a7e78",
+    "mean_score_prediction": 5.3615932539105415
+  },
+  {
+    "image_id": "699e4454d0c62cca7cc9cdff17a53386",
+    "mean_score_prediction": 5.0469828844070435
+  },
+  {
+    "image_id": "69a171ad444b711b306ad8c362af1f2f",
+    "mean_score_prediction": 4.484857946634293
+  },
+  {
+    "image_id": "69a1ba5d0796265909edc9d9644ac7d9",
+    "mean_score_prediction": 4.511569328606129
+  },
+  {
+    "image_id": "69a2161ab9c7cf1a0a77d63df4f8c54f",
+    "mean_score_prediction": 5.0761551931500435
+  },
+  {
+    "image_id": "69ca5b11146553a31b432f9ea2fd59ff",
+    "mean_score_prediction": 4.294769562780857
+  },
+  {
+    "image_id": "69ce8651ee80e3569e284c9d63e9d472",
+    "mean_score_prediction": 5.477299150079489
+  },
+  {
+    "image_id": "69d4e63e9ab524a95bf8830a45b3fc68",
+    "mean_score_prediction": 5.449103649705648
+  },
+  {
+    "image_id": "69d62588c7289b54c31df484fb0a3c54",
+    "mean_score_prediction": 4.354973316192627
+  },
+  {
+    "image_id": "69d7225dd78b25c1207bcf9212df1ffe",
+    "mean_score_prediction": 5.43045599386096
+  },
+  {
+    "image_id": "69d874afa61fa4856940ea5413eeb049",
+    "mean_score_prediction": 4.927366591989994
+  },
+  {
+    "image_id": "69ec29f1417e930da469ec1d3986df33",
+    "mean_score_prediction": 4.937878929078579
+  },
+  {
+    "image_id": "69eea055aae013f138cec79de61494b6",
+    "mean_score_prediction": 4.009624492377043
+  },
+  {
+    "image_id": "69f220c89b092e2f807f895ef44e406c",
+    "mean_score_prediction": 4.95807708799839
+  },
+  {
+    "image_id": "69fa8314cd2a5bb9d74c8e3522a038ed",
+    "mean_score_prediction": 5.717093963176012
+  },
+  {
+    "image_id": "6a071d4699f23d4ccfe0ef428f5d1c4a",
+    "mean_score_prediction": 4.307775363326073
+  },
+  {
+    "image_id": "6a09a75b4eca168ca1cdc76a253b9c82",
+    "mean_score_prediction": 5.064065344631672
+  },
+  {
+    "image_id": "6a0edc288bd87333a21803dd96ae0668",
+    "mean_score_prediction": 5.450672727078199
+  },
+  {
+    "image_id": "6a116198746529c8c3844106420d453c",
+    "mean_score_prediction": 5.365968756377697
+  },
+  {
+    "image_id": "6a1571f198ff6b4e4f731b97d86280f4",
+    "mean_score_prediction": 3.8943163603544235
+  },
+  {
+    "image_id": "6a1d8c55e41cab984e3921db13bed463",
+    "mean_score_prediction": 4.631079312413931
+  },
+  {
+    "image_id": "6a28276ae94ee222197a6fa50f0b5899",
+    "mean_score_prediction": 5.169972687959671
+  },
+  {
+    "image_id": "6a31463c0e66a8adea2777c24233319c",
+    "mean_score_prediction": 4.78102184087038
+  },
+  {
+    "image_id": "6a367700bb1e64d88ca12a5e074b91d0",
+    "mean_score_prediction": 5.209706231951714
+  },
+  {
+    "image_id": "6a3c6f0a9a3eda369cea5e6618deb5c2",
+    "mean_score_prediction": 5.3321536630392075
+  },
+  {
+    "image_id": "6a3ca90a2f088de791dfc83ccf1731e2",
+    "mean_score_prediction": 5.163421779870987
+  },
+  {
+    "image_id": "6a3eb0bb4ff8813da1470a9137f4830d",
+    "mean_score_prediction": 4.638562358915806
+  },
+  {
+    "image_id": "6a51c027c0ae54dd3d4eec1f8063e2a8",
+    "mean_score_prediction": 5.489505484700203
+  },
+  {
+    "image_id": "6a5ddeb476e04c9b399f02b1a131bd7b",
+    "mean_score_prediction": 5.082150846719742
+  },
+  {
+    "image_id": "6a601b23d765b2a7a18d35a345e723f2",
+    "mean_score_prediction": 5.408528923988342
+  },
+  {
+    "image_id": "6a61905fe78a9d8dab0410d034da40b9",
+    "mean_score_prediction": 4.707595191895962
+  },
+  {
+    "image_id": "6a668590eaac89b22c2a00592e212883",
+    "mean_score_prediction": 3.6935897395014763
+  },
+  {
+    "image_id": "6a6823ecbdd6ed29d68f9c5d51b6051c",
+    "mean_score_prediction": 5.302027724683285
+  },
+  {
+    "image_id": "6a6dd1cce2924cfd6fe79b3cb9aae1a1",
+    "mean_score_prediction": 5.875290609896183
+  },
+  {
+    "image_id": "6a734925b0956b22a4c570e5b99d071b",
+    "mean_score_prediction": 4.162072855979204
+  },
+  {
+    "image_id": "6a74a5613bfebfd741708e46ff8f1d08",
+    "mean_score_prediction": 4.565524727106094
+  },
+  {
+    "image_id": "6a789f7b9d92f34c7f87dc4752365b4e",
+    "mean_score_prediction": 5.602625463157892
+  },
+  {
+    "image_id": "6a80a3260d967d565fbe92b0d32eb78d",
+    "mean_score_prediction": 5.029154576361179
+  },
+  {
+    "image_id": "6a889dae99c4c09f7b8f2f41959731c8",
+    "mean_score_prediction": 3.8194116353988647
+  },
+  {
+    "image_id": "6a92855729907d29855e40f1a697b143",
+    "mean_score_prediction": 5.7650254257023335
+  },
+  {
+    "image_id": "6a9d9a9fc4949915cc8d086655a731c9",
+    "mean_score_prediction": 4.8990082666277885
+  },
+  {
+    "image_id": "6aa7dae08e9308c6657eea4deacc4c32",
+    "mean_score_prediction": 4.9310407564044
+  },
+  {
+    "image_id": "6aa9ea2b993dce29d0ea8423e9ff1daa",
+    "mean_score_prediction": 5.37796426564455
+  },
+  {
+    "image_id": "6ab5e01d6db1360d6a675f75f90d2efc",
+    "mean_score_prediction": 4.201841730624437
+  },
+  {
+    "image_id": "6ac397fdde24bc4bac813ed96fd97c5c",
+    "mean_score_prediction": 5.551009267568588
+  },
+  {
+    "image_id": "6acc51a421d881a16e325a37d1ecdb7a",
+    "mean_score_prediction": 5.437278635799885
+  },
+  {
+    "image_id": "6ad4b4a81f744231c5b1f9c30a94bd80",
+    "mean_score_prediction": 3.465890645980835
+  },
+  {
+    "image_id": "6ad51cc64ae0d59e5163437742cab582",
+    "mean_score_prediction": 6.360194778069854
+  },
+  {
+    "image_id": "6ad72ac98b14370a9754d0b21e518092",
+    "mean_score_prediction": 5.102101527154446
+  },
+  {
+    "image_id": "6ad90b728783d37229bc7b0029e253af",
+    "mean_score_prediction": 4.5374371856451035
+  },
+  {
+    "image_id": "6ae42b731c00756ddd291fa615c822a1",
+    "mean_score_prediction": 4.9847831055521965
+  },
+  {
+    "image_id": "6ae88235fb3defb332ed855052a61c96",
+    "mean_score_prediction": 4.687193721532822
+  },
+  {
+    "image_id": "6af7065779143bbf25c0f9fefc664e41",
+    "mean_score_prediction": 4.142142403870821
+  },
+  {
+    "image_id": "6af7401e6c5104e6938ec2d7a551169b",
+    "mean_score_prediction": 4.834287263453007
+  },
+  {
+    "image_id": "6afb2c0b2e2209caa00c57aaac3e3124",
+    "mean_score_prediction": 5.054675705730915
+  },
+  {
+    "image_id": "6b0da7b0a956eb90c7d0c95d6c9e57a6",
+    "mean_score_prediction": 4.756110839545727
+  },
+  {
+    "image_id": "6b1031d24457b1a575c99d0bd516ba28",
+    "mean_score_prediction": 5.012582048773766
+  },
+  {
+    "image_id": "6b1784bae450fe3a897336d37507c851",
+    "mean_score_prediction": 4.874543823301792
+  },
+  {
+    "image_id": "6b260eec314890073e0886d2df24df1f",
+    "mean_score_prediction": 5.209598898887634
+  },
+  {
+    "image_id": "6b26d5a23be3248307ea3e74cc30c0cc",
+    "mean_score_prediction": 5.181061498820782
+  },
+  {
+    "image_id": "6b27aef2933b9e6ad8ceb07de4fa891c",
+    "mean_score_prediction": 5.233708828687668
+  },
+  {
+    "image_id": "6b3095627abbdfc50a1cd5c7dd86cec8",
+    "mean_score_prediction": 4.925621561706066
+  },
+  {
+    "image_id": "6b3111a76fbd09b4be3ce00ceaa4f786",
+    "mean_score_prediction": 5.0032359436154366
+  },
+  {
+    "image_id": "6b3705c62d3622cdf487e1dc87374e8f",
+    "mean_score_prediction": 5.756232876330614
+  },
+  {
+    "image_id": "6b398d2e7f9b42fde4b9e5ab03d066f3",
+    "mean_score_prediction": 5.647050425410271
+  },
+  {
+    "image_id": "6b3a539131ea0aa699c319f5eddedc63",
+    "mean_score_prediction": 4.300239033997059
+  },
+  {
+    "image_id": "6b3a7c2cb1ae8af7de709b78dad96848",
+    "mean_score_prediction": 5.05923668295145
+  },
+  {
+    "image_id": "6b3cd057f16174a91849a3da3c54b378",
+    "mean_score_prediction": 5.779442649334669
+  },
+  {
+    "image_id": "6b3d558edee5e0c4f30512dd71c01ebe",
+    "mean_score_prediction": 4.460782255977392
+  },
+  {
+    "image_id": "6b417633c2643af5264fc11f465f7619",
+    "mean_score_prediction": 5.16210650652647
+  },
+  {
+    "image_id": "6b456fbbe28bd23aa4b79f11761532e0",
+    "mean_score_prediction": 4.827637739479542
+  },
+  {
+    "image_id": "6b55709a2258bb8fd476bed49336496b",
+    "mean_score_prediction": 5.128928869962692
+  },
+  {
+    "image_id": "6b70e184ff8c05ea3c7cbbdfd8f2c3b3",
+    "mean_score_prediction": 5.002570040524006
+  },
+  {
+    "image_id": "6b807488b6dec6a3d03936556a517cdb",
+    "mean_score_prediction": 5.300952948629856
+  },
+  {
+    "image_id": "6b936316bf516c204bce94b83aecff27",
+    "mean_score_prediction": 5.483462244272232
+  },
+  {
+    "image_id": "6b9512e8913255663ee7d7114e0ae694",
+    "mean_score_prediction": 4.6918023601174355
+  },
+  {
+    "image_id": "6b9921e8637ee9101a33b83edb0cd792",
+    "mean_score_prediction": 5.365446340292692
+  },
+  {
+    "image_id": "6b9adfaddb17c064a6e1ae0cdfbbed50",
+    "mean_score_prediction": 5.099763676524162
+  },
+  {
+    "image_id": "6ba00c1158aa975ac8c0149bca9891a8",
+    "mean_score_prediction": 5.301934160292149
+  },
+  {
+    "image_id": "6ba44d85fc22a60b16da8ef81e18d4a4",
+    "mean_score_prediction": 4.6038792207837105
+  },
+  {
+    "image_id": "6ba599ddeaf224501e08a55d5dca9d6e",
+    "mean_score_prediction": 5.054901897907257
+  },
+  {
+    "image_id": "6ba71d2afd256af651a13c77eab7892d",
+    "mean_score_prediction": 5.704511102288961
+  },
+  {
+    "image_id": "6ba7d5306053b61be881a3ccbbd1a7ae",
+    "mean_score_prediction": 5.4295400977134705
+  },
+  {
+    "image_id": "6bb142e3d6e7fa0f41d0ba5925b21acd",
+    "mean_score_prediction": 5.215141877532005
+  },
+  {
+    "image_id": "6bb7f0653725b30118199fd763945713",
+    "mean_score_prediction": 5.918352887034416
+  },
+  {
+    "image_id": "6bc432d7253c41dcc2f7516b2b219232",
+    "mean_score_prediction": 5.224662728607655
+  },
+  {
+    "image_id": "6bd134de2e6172958e1365cf8d7d1867",
+    "mean_score_prediction": 4.926276199519634
+  },
+  {
+    "image_id": "6be2610e60146f56b14568a38731b055",
+    "mean_score_prediction": 4.569850437343121
+  },
+  {
+    "image_id": "6befc3ee8c68b330456e10e5eb206e40",
+    "mean_score_prediction": 5.307609893381596
+  },
+  {
+    "image_id": "6bf0b393043a3603286ae04edd17a00a",
+    "mean_score_prediction": 5.874053912237287
+  },
+  {
+    "image_id": "6bf8980fc80d4dac79636d0a6de0384d",
+    "mean_score_prediction": 5.2604751363396645
+  },
+  {
+    "image_id": "6bf9ef95b240f68c0d855b3b0ce6b7b4",
+    "mean_score_prediction": 5.120915398001671
+  },
+  {
+    "image_id": "6bfa9df3ba93e8c91efaa3c0fcc7b920",
+    "mean_score_prediction": 5.3493276834487915
+  },
+  {
+    "image_id": "6bff764f427a610f7bb9bd0eef3df264",
+    "mean_score_prediction": 4.885503500699997
+  },
+  {
+    "image_id": "6c01ac2c9717f4edccb1dce391f8820e",
+    "mean_score_prediction": 5.227128446102142
+  },
+  {
+    "image_id": "6c05a00d65643feb0a84220678199fe9",
+    "mean_score_prediction": 4.801480978727341
+  },
+  {
+    "image_id": "6c066920facbf4c753c88fbead6ccee0",
+    "mean_score_prediction": 5.130291551351547
+  },
+  {
+    "image_id": "6c09c66d12b2f6e2cf2967f160dfe642",
+    "mean_score_prediction": 4.899609252810478
+  },
+  {
+    "image_id": "6c14def715dc2d87059b78e9a237fbbf",
+    "mean_score_prediction": 4.580376051366329
+  },
+  {
+    "image_id": "6c159aede3df25fdbe781431aabcfc67",
+    "mean_score_prediction": 4.713698357343674
+  },
+  {
+    "image_id": "6c3903746f685dd568d7acc11b3a3b84",
+    "mean_score_prediction": 5.75465989112854
+  },
+  {
+    "image_id": "6c41e8878e611e425f9873f88cb2cd3e",
+    "mean_score_prediction": 5.422928916290402
+  },
+  {
+    "image_id": "6c4f40b027b43d60d1db1522adba8178",
+    "mean_score_prediction": 5.595491111278534
+  },
+  {
+    "image_id": "6c599fa03e97a60d11118aba06d99efa",
+    "mean_score_prediction": 5.205041170120239
+  },
+  {
+    "image_id": "6c5c1f3484c051e08d840346167e777e",
+    "mean_score_prediction": 4.564136814326048
+  },
+  {
+    "image_id": "6c5e882d03f0481531579c985c42fb81",
+    "mean_score_prediction": 5.3907577730715275
+  },
+  {
+    "image_id": "6c64283d98453c299728ec48486bfb12",
+    "mean_score_prediction": 4.1381083354353905
+  },
+  {
+    "image_id": "6c64e7621683aae65c579587ce4a166f",
+    "mean_score_prediction": 5.116670899093151
+  },
+  {
+    "image_id": "6c74145775e4958dae00d7114ebcafd7",
+    "mean_score_prediction": 4.935858465731144
+  },
+  {
+    "image_id": "6c76b4efcb6316c58735f073de93ddce",
+    "mean_score_prediction": 5.134431526064873
+  },
+  {
+    "image_id": "6c7727781abc78f17f6cb6d6b951e5ae",
+    "mean_score_prediction": 4.710138231515884
+  },
+  {
+    "image_id": "6c7cccacbd48914ce4ef5831c6150546",
+    "mean_score_prediction": 4.612804502248764
+  },
+  {
+    "image_id": "6c7d9ef4574b173b03abae47d977ca2a",
+    "mean_score_prediction": 5.407603040337563
+  },
+  {
+    "image_id": "6c7ee1b7ce005c69318095fde299747a",
+    "mean_score_prediction": 5.044723957777023
+  },
+  {
+    "image_id": "6c8afabc7d6d63f15d293dfbe8ce4f57",
+    "mean_score_prediction": 4.420809790492058
+  },
+  {
+    "image_id": "6c8c819974fb055c5026fa1614c42c1a",
+    "mean_score_prediction": 5.025523416697979
+  },
+  {
+    "image_id": "6c8c97fe08a2fcf41c9d8d4c41a547d8",
+    "mean_score_prediction": 4.9107666946947575
+  },
+  {
+    "image_id": "6c8fec78fa49ff7a884b62c20ee9f6f7",
+    "mean_score_prediction": 5.536969020962715
+  },
+  {
+    "image_id": "6ca5173eeefb75b55ad3ecbdefd48b29",
+    "mean_score_prediction": 5.710515782237053
+  },
+  {
+    "image_id": "6cb04a2817ffe89a224d01510c462f13",
+    "mean_score_prediction": 5.493186812847853
+  },
+  {
+    "image_id": "6cb18e0936faa730077732a25c3dfb94",
+    "mean_score_prediction": 5.942257950082421
+  },
+  {
+    "image_id": "6cb35b7636e4b87c8f0425d53ba9fb21",
+    "mean_score_prediction": 5.696986373513937
+  },
+  {
+    "image_id": "6cb58ba6ce669d5307840aa5ee7eeb2d",
+    "mean_score_prediction": 5.42472006380558
+  },
+  {
+    "image_id": "6cb67d4bd2cbabb7501473f3ff8f08e9",
+    "mean_score_prediction": 5.334876045584679
+  },
+  {
+    "image_id": "6cbca73964b22d569c82180dfab46fe0",
+    "mean_score_prediction": 5.16931251809001
+  },
+  {
+    "image_id": "6cc7747002a8a310a7368fa9a4549e67",
+    "mean_score_prediction": 5.462113782763481
+  },
+  {
+    "image_id": "6cce26f97f57274edfd92a93d721ea9e",
+    "mean_score_prediction": 6.18071636557579
+  },
+  {
+    "image_id": "6cd186babdc49445bd47a40d23eac8f7",
+    "mean_score_prediction": 5.025482125580311
+  },
+  {
+    "image_id": "6cd3d0a5bb558a1a59f7fad688c9df84",
+    "mean_score_prediction": 5.072812594473362
+  },
+  {
+    "image_id": "6cdf14b34761ac73dc10c9b1e82be2a8",
+    "mean_score_prediction": 4.966415703296661
+  },
+  {
+    "image_id": "6ced2cd9ff3da0b3e56565e9eae1fbdf",
+    "mean_score_prediction": 5.324436455965042
+  },
+  {
+    "image_id": "6cf284fbd74fb0b916f279b8c9486c44",
+    "mean_score_prediction": 5.1842030473053455
+  },
+  {
+    "image_id": "6cf3c085e3127d675c3774b3392808ab",
+    "mean_score_prediction": 5.710113354027271
+  },
+  {
+    "image_id": "6cfaa09adf6d30fcaa43c8a56a2da1a3",
+    "mean_score_prediction": 5.474002905189991
+  },
+  {
+    "image_id": "6cfaa7e87d6539174933ef394fb24a87",
+    "mean_score_prediction": 5.069283477962017
+  },
+  {
+    "image_id": "6d0d3fdd83bcb9832bb29158664fdb72",
+    "mean_score_prediction": 5.2711402624845505
+  },
+  {
+    "image_id": "6d0d7604a33bb43a21864ad85792d84c",
+    "mean_score_prediction": 5.1940628960728645
+  },
+  {
+    "image_id": "6d0f4433551e9e35b0c5c4120921ac40",
+    "mean_score_prediction": 5.44817503541708
+  },
+  {
+    "image_id": "6d11d1d203f4f67b070ca0eaf4f42b89",
+    "mean_score_prediction": 4.659261576831341
+  },
+  {
+    "image_id": "6d16906bb77cfd0fbabfb9bf7af7a048",
+    "mean_score_prediction": 4.837725855410099
+  },
+  {
+    "image_id": "6d1841dbdd1580031cccccec2cc19ca3",
+    "mean_score_prediction": 5.174730539321899
+  },
+  {
+    "image_id": "6d28f8a6941d0f2b5f1999633d44df90",
+    "mean_score_prediction": 5.4119168147444725
+  },
+  {
+    "image_id": "6d2e55ece66eca203e965a577faea576",
+    "mean_score_prediction": 4.035011004656553
+  },
+  {
+    "image_id": "6d381384a61310b016d676d11801d89e",
+    "mean_score_prediction": 5.451535951346159
+  },
+  {
+    "image_id": "6d3aa2f4bf3db339cbfaada870c54675",
+    "mean_score_prediction": 4.921643979847431
+  },
+  {
+    "image_id": "6d3bd371a92d76ba0b090b40c93a37a3",
+    "mean_score_prediction": 5.283468343317509
+  },
+  {
+    "image_id": "6d3d0b5533f68a28e08286b8a7357050",
+    "mean_score_prediction": 6.045872341841459
+  },
+  {
+    "image_id": "6d4a7b30f2a294b43279d3c1e5dddb5a",
+    "mean_score_prediction": 5.292120657861233
+  },
+  {
+    "image_id": "6d57afd53b50ae7285114036a38d0e92",
+    "mean_score_prediction": 4.538846388459206
+  },
+  {
+    "image_id": "6d5ad5c28ee0a166f643dd311cc08a94",
+    "mean_score_prediction": 4.523857496678829
+  },
+  {
+    "image_id": "6d601aa751ba8e7906a869360a22e036",
+    "mean_score_prediction": 4.723093651235104
+  },
+  {
+    "image_id": "6d639fb891c8c38c0b5ce71f46bea3fc",
+    "mean_score_prediction": 5.356003940105438
+  },
+  {
+    "image_id": "6d64599f680b89231ff935a4e3a094d1",
+    "mean_score_prediction": 5.348339155316353
+  },
+  {
+    "image_id": "6d64c59d968692164266dab0a5f4f9ec",
+    "mean_score_prediction": 4.819840967655182
+  },
+  {
+    "image_id": "6d66abfff024243564764a27cb825807",
+    "mean_score_prediction": 5.570268493145704
+  },
+  {
+    "image_id": "6d6d867aa1d8def5b15d94387d09fe83",
+    "mean_score_prediction": 4.644260101020336
+  },
+  {
+    "image_id": "6d7002c6eb16b4ab8abd8009327a76b7",
+    "mean_score_prediction": 5.247855104506016
+  },
+  {
+    "image_id": "6d7ba5e8a0b67c711e56779addeefcad",
+    "mean_score_prediction": 5.104733690619469
+  },
+  {
+    "image_id": "6d7c5a39ab9c5466e997596373be5bd7",
+    "mean_score_prediction": 5.344880685210228
+  },
+  {
+    "image_id": "6d7ce5f83a2b9cff96a58d80237a54e9",
+    "mean_score_prediction": 6.129406535997987
+  },
+  {
+    "image_id": "6d84ccdcedfad4b7244af854dca7fe6f",
+    "mean_score_prediction": 5.1998003497719765
+  },
+  {
+    "image_id": "6d8b087ea01c8f06beb343338d8af53e",
+    "mean_score_prediction": 4.93476489931345
+  },
+  {
+    "image_id": "6d959ccf59c17134167239323773def2",
+    "mean_score_prediction": 4.944124437868595
+  },
+  {
+    "image_id": "6d9b60bd730387a6286291cc41b9070a",
+    "mean_score_prediction": 5.514329832047224
+  },
+  {
+    "image_id": "6d9c0902fb6fc225fd4cb8aec10c928e",
+    "mean_score_prediction": 5.236626543104649
+  },
+  {
+    "image_id": "6da83f4f22dcbdae2fcf7d3dab81263b",
+    "mean_score_prediction": 4.757846996188164
+  },
+  {
+    "image_id": "6da90875b9cb601a96f3765f9794da80",
+    "mean_score_prediction": 5.3602837063372135
+  },
+  {
+    "image_id": "6db171f288cce088fa0b69ac1759976e",
+    "mean_score_prediction": 4.415725462138653
+  },
+  {
+    "image_id": "6db59cac06bbed063c3fec7b5b70d108",
+    "mean_score_prediction": 5.295938245952129
+  },
+  {
+    "image_id": "6db64451738c9c2e3ab1808b9a62021a",
+    "mean_score_prediction": 4.889278993010521
+  },
+  {
+    "image_id": "6dbaac638ede2cd7d6e849f161cc12e8",
+    "mean_score_prediction": 5.722258497029543
+  },
+  {
+    "image_id": "6dbf49c514df2b820023f20e148e4226",
+    "mean_score_prediction": 5.393788605928421
+  },
+  {
+    "image_id": "6dc1ae625a3bfb50571efedc0afc297c",
+    "mean_score_prediction": 5.801864240318537
+  },
+  {
+    "image_id": "6dc2675c1c5aeda3d2138e894b041258",
+    "mean_score_prediction": 5.223186567425728
+  },
+  {
+    "image_id": "6dc36548b3986b7ef3965a4419e610d2",
+    "mean_score_prediction": 5.050817973911762
+  },
+  {
+    "image_id": "6dcb7396e06ee6a538522d2f67f017db",
+    "mean_score_prediction": 4.154582109302282
+  },
+  {
+    "image_id": "6deb37a0ae9f3f0a4107844ef3b27988",
+    "mean_score_prediction": 4.826331477612257
+  },
+  {
+    "image_id": "6df1bb69803d7608ebaa074daba2792b",
+    "mean_score_prediction": 5.028249509632587
+  },
+  {
+    "image_id": "6df67c8457418728f593d7fc043b9261",
+    "mean_score_prediction": 4.970603533089161
+  },
+  {
+    "image_id": "6dfb5b910adb5929cac883cfaf7636a5",
+    "mean_score_prediction": 4.766529962420464
+  },
+  {
+    "image_id": "6dfe690c4431ac793f709a2e63cba724",
+    "mean_score_prediction": 5.386189743876457
+  },
+  {
+    "image_id": "6e00cdc1b2b5da72b331b3a44737300f",
+    "mean_score_prediction": 5.19329122453928
+  },
+  {
+    "image_id": "6e0462e01fc0a240564a40d25ad378e4",
+    "mean_score_prediction": 4.6332192569971085
+  },
+  {
+    "image_id": "6e13c58db98b59dfc108b8c36d189b6c",
+    "mean_score_prediction": 4.73821833729744
+  },
+  {
+    "image_id": "6e17488a6480401b02ef78580f2b0157",
+    "mean_score_prediction": 5.4639504216611385
+  },
+  {
+    "image_id": "6e178e0efae384daf5e1ac78e0b50010",
+    "mean_score_prediction": 5.857902888208628
+  },
+  {
+    "image_id": "6e1c8d0025d32361d44f0e979f93aa0d",
+    "mean_score_prediction": 5.055746965110302
+  },
+  {
+    "image_id": "6e1fa9b9cfa55604ac7243705af0d715",
+    "mean_score_prediction": 5.550878098234534
+  },
+  {
+    "image_id": "6e23c8f22612afbd3eea7e69e199136e",
+    "mean_score_prediction": 5.023779861629009
+  },
+  {
+    "image_id": "6e247091ba75c602966c00cb96d157b8",
+    "mean_score_prediction": 5.797979403287172
+  },
+  {
+    "image_id": "6e2500c4e6b6c0f61e681509c8229018",
+    "mean_score_prediction": 5.263531185686588
+  },
+  {
+    "image_id": "6e31357bf9291f62fcd98f24db4b5750",
+    "mean_score_prediction": 5.03236036002636
+  },
+  {
+    "image_id": "6e35ef5fe303fd2dc8c3d225749b7422",
+    "mean_score_prediction": 4.53899858891964
+  },
+  {
+    "image_id": "6e3a86392a4f2d2b1547575fe4341445",
+    "mean_score_prediction": 5.149563625454903
+  },
+  {
+    "image_id": "6e3e8417c6df9bc73130cb077f48c121",
+    "mean_score_prediction": 5.419594466686249
+  },
+  {
+    "image_id": "6e4180a9483a9666b3835241d9fbfadb",
+    "mean_score_prediction": 4.631735071539879
+  },
+  {
+    "image_id": "6e4322abd15464e3eeff5e07bbeca8cf",
+    "mean_score_prediction": 4.264228835701942
+  },
+  {
+    "image_id": "6e53a22dc13d79d0258663c3d8c24453",
+    "mean_score_prediction": 4.986247010529041
+  },
+  {
+    "image_id": "6e67c43d8245ec25bc2f434afc297a53",
+    "mean_score_prediction": 4.865271128714085
+  },
+  {
+    "image_id": "6e68570b37d05e1ee493dee059a5d3da",
+    "mean_score_prediction": 5.264583505690098
+  },
+  {
+    "image_id": "6e6f6f0e7b7fc30d73955fedb1c271dc",
+    "mean_score_prediction": 5.952853430062532
+  },
+  {
+    "image_id": "6e8f463431409a0dfbf60663c53cce72",
+    "mean_score_prediction": 5.334011517465115
+  },
+  {
+    "image_id": "6e96ca52f3411725a1d6893962094470",
+    "mean_score_prediction": 5.136969454586506
+  },
+  {
+    "image_id": "6e9b59ef8089241e74c1e7a596dd978b",
+    "mean_score_prediction": 5.5786533281207085
+  },
+  {
+    "image_id": "6eac498ca903d007cb0123ec4336b2e2",
+    "mean_score_prediction": 5.665535811334848
+  },
+  {
+    "image_id": "6eadf03ea41395f63c406c272d88509e",
+    "mean_score_prediction": 4.603368315845728
+  },
+  {
+    "image_id": "6eb430273ca835f82c585d6926f88b70",
+    "mean_score_prediction": 5.68175208941102
+  },
+  {
+    "image_id": "6eb5150422f8288b9350cefaa2ca349d",
+    "mean_score_prediction": 5.775622997432947
+  },
+  {
+    "image_id": "6eb5212fdf90ec3ca9beac9107b73d7e",
+    "mean_score_prediction": 4.666239969432354
+  },
+  {
+    "image_id": "6eb856c8cf987fa0c62c5b1d7c42882f",
+    "mean_score_prediction": 5.450219478458166
+  },
+  {
+    "image_id": "6ebb9e515e8dfcc84a26503be343c6bc",
+    "mean_score_prediction": 3.1427873596549034
+  },
+  {
+    "image_id": "6ec2e2489197138114f5fa9dc02a686d",
+    "mean_score_prediction": 5.291750840842724
+  },
+  {
+    "image_id": "6ec49ac5bb2d6c09136229ab58f6f88c",
+    "mean_score_prediction": 5.498939245939255
+  },
+  {
+    "image_id": "6ed87db3f1a0db34213f22187a4396ce",
+    "mean_score_prediction": 3.3967095371335745
+  },
+  {
+    "image_id": "6ed983f5b09e50be6b778175c0f74d98",
+    "mean_score_prediction": 4.2598176300525665
+  },
+  {
+    "image_id": "6ee407bf29c9aecc83e315570450cf79",
+    "mean_score_prediction": 4.718255937099457
+  },
+  {
+    "image_id": "6ee6d90bb62b8b34c67c12d231147917",
+    "mean_score_prediction": 5.152757443487644
+  },
+  {
+    "image_id": "6eeb8175eac03012a9c50b4c742db55f",
+    "mean_score_prediction": 5.086376070976257
+  },
+  {
+    "image_id": "6eef2309c7d196d92c1fb33b20359b93",
+    "mean_score_prediction": 5.430992923676968
+  },
+  {
+    "image_id": "6efa8228efefbabc26cd68b09f4b965f",
+    "mean_score_prediction": 5.814806450158358
+  },
+  {
+    "image_id": "6efc6fb37465b04f50c5118c8c8791ea",
+    "mean_score_prediction": 5.192830756306648
+  },
+  {
+    "image_id": "6f01b8443ce73266d19465616f96a938",
+    "mean_score_prediction": 5.358079515397549
+  },
+  {
+    "image_id": "6f0af5c6bb824a12d0b8366a362f7d0e",
+    "mean_score_prediction": 4.8935227394104
+  },
+  {
+    "image_id": "6f0faef0f59424d2f48855c9ce5a1e10",
+    "mean_score_prediction": 5.616728462278843
+  },
+  {
+    "image_id": "6f111cd99f8a3dd9edb0fb7a7f2b2cd4",
+    "mean_score_prediction": 4.69583623111248
+  },
+  {
+    "image_id": "6f1912a847e9365e695ff71fc75bac93",
+    "mean_score_prediction": 4.93199522793293
+  },
+  {
+    "image_id": "6f1d0928b9e9836ce85ac4622b703a80",
+    "mean_score_prediction": 5.342803440988064
+  },
+  {
+    "image_id": "6f207e3b381a2c362a3a78e520d832f6",
+    "mean_score_prediction": 5.580190774053335
+  },
+  {
+    "image_id": "6f21f0d6b3548e963be46aec29f6331a",
+    "mean_score_prediction": 4.628339923918247
+  },
+  {
+    "image_id": "6f28ca866279bbf722b7874951ad33c4",
+    "mean_score_prediction": 4.741449672728777
+  },
+  {
+    "image_id": "6f343ab5a102fb05cc1f425420372d10",
+    "mean_score_prediction": 5.959728557616472
+  },
+  {
+    "image_id": "6f383b872f8881f6c82c9449842ba081",
+    "mean_score_prediction": 4.7533473670482635
+  },
+  {
+    "image_id": "6f3d7b269710321c1f5dbd9d1b7784b7",
+    "mean_score_prediction": 4.638475578278303
+  },
+  {
+    "image_id": "6f46cb8192d335aece3d11ac8e7b1cf8",
+    "mean_score_prediction": 4.5164029859006405
+  },
+  {
+    "image_id": "6f4849e66b003e34be5065fea4dce653",
+    "mean_score_prediction": 5.142238311469555
+  },
+  {
+    "image_id": "6f4c804a2daf0b0ff03aa3c13c066fb4",
+    "mean_score_prediction": 4.519049055874348
+  },
+  {
+    "image_id": "6f6643eb51f6a9a5c81a1f04a6895041",
+    "mean_score_prediction": 5.179678589105606
+  },
+  {
+    "image_id": "6f6835ebda8ddd575a59498ad0091ca1",
+    "mean_score_prediction": 4.5820113606750965
+  },
+  {
+    "image_id": "6f74890e457b6130549eba37863fbad4",
+    "mean_score_prediction": 5.59645239636302
+  },
+  {
+    "image_id": "6f794fe3c5729a414664b4dc88a67fef",
+    "mean_score_prediction": 4.74870216101408
+  },
+  {
+    "image_id": "6f85f3fb76ba51e750fac2ecb921f6cb",
+    "mean_score_prediction": 5.243700832128525
+  },
+  {
+    "image_id": "6f8cdaeac1c54a4f6586a2adbfa0cde7",
+    "mean_score_prediction": 5.030248820781708
+  },
+  {
+    "image_id": "6f8ffa69ab20704845d1669e840aef9f",
+    "mean_score_prediction": 4.617047794163227
+  },
+  {
+    "image_id": "6f9953e3fca147aed6c1427330ed6a2a",
+    "mean_score_prediction": 5.475387945771217
+  },
+  {
+    "image_id": "6f9f0cc786833513672553cb203a3033",
+    "mean_score_prediction": 5.102448552846909
+  },
+  {
+    "image_id": "6fa61a4d7b0262c37d12eebcc5178c64",
+    "mean_score_prediction": 4.890697725117207
+  },
+  {
+    "image_id": "6fb6c9d1477344254274320a7f5309e8",
+    "mean_score_prediction": 6.046007767319679
+  },
+  {
+    "image_id": "6fbfbb7602dfa549adaac0b71918dd38",
+    "mean_score_prediction": 5.545637261122465
+  },
+  {
+    "image_id": "6fc96264a63a2daf2ffacbbcb2f26b7f",
+    "mean_score_prediction": 5.104099988937378
+  },
+  {
+    "image_id": "6fc9a11c24842ced7fbcda02689694b4",
+    "mean_score_prediction": 5.079206168651581
+  },
+  {
+    "image_id": "6fdac4bf17d86ce3561694ce1739efc8",
+    "mean_score_prediction": 4.654569070786238
+  },
+  {
+    "image_id": "6fee2bcf70d2f458719e337ec5e0d087",
+    "mean_score_prediction": 4.829378381371498
+  },
+  {
+    "image_id": "6ff12cb9b54f1513593a6748411de1c0",
+    "mean_score_prediction": 5.209191184490919
+  },
+  {
+    "image_id": "6ff850d7e976afa06aef12f3a860b743",
+    "mean_score_prediction": 5.09873179718852
+  },
+  {
+    "image_id": "6ffbae72a33918217eb05e6c9fac05be",
+    "mean_score_prediction": 5.13603750616312
+  },
+  {
+    "image_id": "6ffe6b0d89c331f7cc27a9fe25249724",
+    "mean_score_prediction": 5.251308843493462
+  },
+  {
+    "image_id": "6fff633ed94d80dd7591361c5a14924e",
+    "mean_score_prediction": 5.093701809644699
+  },
+  {
+    "image_id": "70037b175994ff7c417ed2d81c6b538e",
+    "mean_score_prediction": 5.8432402536273
+  },
+  {
+    "image_id": "700db4fae0b34f8648ce3d96852232dc",
+    "mean_score_prediction": 5.670586880296469
+  },
+  {
+    "image_id": "700ef9116389f3e5551d6449a59f9f34",
+    "mean_score_prediction": 4.457993678748608
+  },
+  {
+    "image_id": "70118e072ea135f1287e99d3f32bfa3f",
+    "mean_score_prediction": 5.051778070628643
+  },
+  {
+    "image_id": "70169624b1986f6e7ecf048ba96fc1ba",
+    "mean_score_prediction": 4.885311685502529
+  },
+  {
+    "image_id": "703575314c23b299e45b5fc4f3fcd357",
+    "mean_score_prediction": 3.9752131439745426
+  },
+  {
+    "image_id": "70367305947c741f591e4b29a6470fdc",
+    "mean_score_prediction": 5.472693298012018
+  },
+  {
+    "image_id": "7038d25ea0c5a519bb341a32750c783f",
+    "mean_score_prediction": 5.734557416290045
+  },
+  {
+    "image_id": "70457c8ed4ce53fa71f5250f36b54558",
+    "mean_score_prediction": 5.13381765037775
+  },
+  {
+    "image_id": "70498b41f4bc22e2958b04b7c397f199",
+    "mean_score_prediction": 5.115709565579891
+  },
+  {
+    "image_id": "704fd9ed255d8843b7f1329ba9116001",
+    "mean_score_prediction": 4.732824709266424
+  },
+  {
+    "image_id": "705332503dcbc6ebf7dd322ec10580a7",
+    "mean_score_prediction": 5.703081626445055
+  },
+  {
+    "image_id": "705d4cbde24cbcba61c02f1108e373d8",
+    "mean_score_prediction": 5.632496349513531
+  },
+  {
+    "image_id": "705d74ca53f7d38baced3c5a9673ea23",
+    "mean_score_prediction": 5.230084486305714
+  },
+  {
+    "image_id": "705e30eae8553aa28395166a06c29152",
+    "mean_score_prediction": 4.803435310721397
+  },
+  {
+    "image_id": "7063b4b8fa4a85a86439b1b89d2237bd",
+    "mean_score_prediction": 4.90558884292841
+  },
+  {
+    "image_id": "7069e25708e9580a49a7e0f286342cf7",
+    "mean_score_prediction": 5.555645987391472
+  },
+  {
+    "image_id": "706dfb3b161f83142f7e288e89c53dd4",
+    "mean_score_prediction": 4.9198529198765755
+  },
+  {
+    "image_id": "70708e35ee24679314624f79f8fae059",
+    "mean_score_prediction": 5.293359376490116
+  },
+  {
+    "image_id": "707adfa02bdaa55e10857fa684c840b9",
+    "mean_score_prediction": 5.096801608800888
+  },
+  {
+    "image_id": "707b0fe32e715bdc26047c82a1927a2f",
+    "mean_score_prediction": 4.9947545900940895
+  },
+  {
+    "image_id": "7092c6d25cacf355b7e560239b255c5e",
+    "mean_score_prediction": 5.072154641151428
+  },
+  {
+    "image_id": "70959ab53e22eba5ff99c07b7bb52eab",
+    "mean_score_prediction": 5.153012603521347
+  },
+  {
+    "image_id": "709acf2879ab3f19e6e44586425f9aea",
+    "mean_score_prediction": 6.266484517604113
+  },
+  {
+    "image_id": "709aea1370fe4bc076506b7616a81ca0",
+    "mean_score_prediction": 5.008579984307289
+  },
+  {
+    "image_id": "70a4625b37354fc4464d2ef185fa2843",
+    "mean_score_prediction": 5.464311182498932
+  },
+  {
+    "image_id": "70ac2770371c791f51302b7ce2fd7308",
+    "mean_score_prediction": 5.390181750059128
+  },
+  {
+    "image_id": "70ae495881c399edb1e3300fad8a88b4",
+    "mean_score_prediction": 4.656551584601402
+  },
+  {
+    "image_id": "70b3340d024f77a06b12dffab2e51029",
+    "mean_score_prediction": 4.275871679186821
+  },
+  {
+    "image_id": "70ccd8d9c406a1246a607ecb8888e9cb",
+    "mean_score_prediction": 4.908645428717136
+  },
+  {
+    "image_id": "70ce65174e91ecbd4aa3e1352613775c",
+    "mean_score_prediction": 5.147990562021732
+  },
+  {
+    "image_id": "70d1c830a5282f3fc0103548d360b9ef",
+    "mean_score_prediction": 5.182128839194775
+  },
+  {
+    "image_id": "70d35485c8196fa26efd0e9f7bf91f1d",
+    "mean_score_prediction": 5.175164230167866
+  },
+  {
+    "image_id": "70d84af95038db3f409e519fdc25686b",
+    "mean_score_prediction": 5.354049250483513
+  },
+  {
+    "image_id": "70e3a82f092bf5d07b4743230008cfbf",
+    "mean_score_prediction": 5.166922181844711
+  },
+  {
+    "image_id": "70ee7d5d4626e063351135a46a2f4798",
+    "mean_score_prediction": 5.275856330990791
+  },
+  {
+    "image_id": "70f00096a8c4486df365e28bc4f1845e",
+    "mean_score_prediction": 4.871817469596863
+  },
+  {
+    "image_id": "70f8311b59a18dec55d9d15ca7344d25",
+    "mean_score_prediction": 5.456355191767216
+  },
+  {
+    "image_id": "70fb4e11b1a42d9079b14305ffad6b2e",
+    "mean_score_prediction": 5.178044840693474
+  },
+  {
+    "image_id": "711273c4c6c03b8edc6531713f8d1b0c",
+    "mean_score_prediction": 4.234821181744337
+  },
+  {
+    "image_id": "7114436eac271faac844afddb4169f13",
+    "mean_score_prediction": 5.245454922318459
+  },
+  {
+    "image_id": "712b6f2e29311baa83526fc1fce86456",
+    "mean_score_prediction": 5.377800613641739
+  },
+  {
+    "image_id": "713387f0041daa87210efdc6510fb1dc",
+    "mean_score_prediction": 5.31652157753706
+  },
+  {
+    "image_id": "713d5fcff4cbcbfb759661bfbd950d72",
+    "mean_score_prediction": 5.459919318556786
+  },
+  {
+    "image_id": "714baf3c1003cf62c9c11905dac059da",
+    "mean_score_prediction": 5.237654767930508
+  },
+  {
+    "image_id": "71557a9442c1bc589807ed4299800d39",
+    "mean_score_prediction": 5.71460148319602
+  },
+  {
+    "image_id": "7158c16d2568ef6e437e4cee1daaddd8",
+    "mean_score_prediction": 4.757448174059391
+  },
+  {
+    "image_id": "716ef13d8f31db759136f855f1210575",
+    "mean_score_prediction": 5.393891267478466
+  },
+  {
+    "image_id": "717cbda6038d5173c5a85169432a4b7b",
+    "mean_score_prediction": 5.811032593250275
+  },
+  {
+    "image_id": "717f79483f42d551d3a67f69a287fbf3",
+    "mean_score_prediction": 5.527589164674282
+  },
+  {
+    "image_id": "71809cd7016bcb28303e4dcae88a886e",
+    "mean_score_prediction": 5.159126274287701
+  },
+  {
+    "image_id": "71842617a64fc39157269ad88796d753",
+    "mean_score_prediction": 5.23132062330842
+  },
+  {
+    "image_id": "7188ee36ba85c73cac43f4f11dc2fbb1",
+    "mean_score_prediction": 5.553671941161156
+  },
+  {
+    "image_id": "718d3cfafb4f1fd6958b04438a964a3f",
+    "mean_score_prediction": 4.726027339696884
+  },
+  {
+    "image_id": "718e2f21d25e919c07bb60588e79eb6a",
+    "mean_score_prediction": 5.283011566847563
+  },
+  {
+    "image_id": "718f0b6e65759c71e29a938c6b933d02",
+    "mean_score_prediction": 4.1861357390880585
+  },
+  {
+    "image_id": "719a57ed1567ddf9ab7407274920db8a",
+    "mean_score_prediction": 4.988072790205479
+  },
+  {
+    "image_id": "71a754b095975265485cc7d4ed74ec6b",
+    "mean_score_prediction": 4.8038821294903755
+  },
+  {
+    "image_id": "71af8a1e9cd0d87bfb777a4e4a31851d",
+    "mean_score_prediction": 5.076938323676586
+  },
+  {
+    "image_id": "71b14aa8e51c79efc31940047e6fc9fa",
+    "mean_score_prediction": 5.311817571520805
+  },
+  {
+    "image_id": "71c43ce344ddb41341c7f4d1f34dd5b8",
+    "mean_score_prediction": 5.335090346634388
+  },
+  {
+    "image_id": "71cc7847cd73328e22f60a36d65e3adb",
+    "mean_score_prediction": 5.146450467407703
+  },
+  {
+    "image_id": "71d9cf5f53cc0a5fae0d006398a9b341",
+    "mean_score_prediction": 4.566054999828339
+  },
+  {
+    "image_id": "71da625923f88f4ce05e4680c29e61f1",
+    "mean_score_prediction": 6.030076675117016
+  },
+  {
+    "image_id": "71daa33b3a3c310bbdcd2d98d1243d90",
+    "mean_score_prediction": 5.19798494502902
+  },
+  {
+    "image_id": "71dab37e707c62c7a06c9335119ac050",
+    "mean_score_prediction": 5.442803859710693
+  },
+  {
+    "image_id": "71e07ac0669a0486b088edcda5cfaaf2",
+    "mean_score_prediction": 4.982363726943731
+  },
+  {
+    "image_id": "71e5e5292d640befd4115ef54d136622",
+    "mean_score_prediction": 4.8436794355511665
+  },
+  {
+    "image_id": "71ea5446f8b14684f14539faab3ed993",
+    "mean_score_prediction": 5.759073980152607
+  },
+  {
+    "image_id": "71ea9a19d08a4705ba4b8e50f6272b34",
+    "mean_score_prediction": 5.149762533605099
+  },
+  {
+    "image_id": "71f15759ae02e17cfaae7904d527fa5d",
+    "mean_score_prediction": 4.993997305631638
+  },
+  {
+    "image_id": "71f4580a5125fe00c845503265baa6c0",
+    "mean_score_prediction": 5.268369525671005
+  },
+  {
+    "image_id": "71f518d929d1994e495ace36056e6a9e",
+    "mean_score_prediction": 5.501344986259937
+  },
+  {
+    "image_id": "71fa4d85742ba547591ffc91736c1f29",
+    "mean_score_prediction": 5.355558194220066
+  },
+  {
+    "image_id": "71fd3274741e369f39c95aad22edaa27",
+    "mean_score_prediction": 4.87387490272522
+  },
+  {
+    "image_id": "7203fe6220d41c147ce56185fe1e2262",
+    "mean_score_prediction": 4.961957275867462
+  },
+  {
+    "image_id": "720d8f582c3527b1641ff3391747dd15",
+    "mean_score_prediction": 5.4170703664422035
+  },
+  {
+    "image_id": "720eef19631a1ca24755804370111b85",
+    "mean_score_prediction": 4.193186711519957
+  },
+  {
+    "image_id": "721096811f3e8b6667ff7153252866d5",
+    "mean_score_prediction": 5.596580684185028
+  },
+  {
+    "image_id": "7212367cef8aeb4a821aa3d9651d580b",
+    "mean_score_prediction": 4.692768506705761
+  },
+  {
+    "image_id": "721d316084ff00ac1e81124d021357ee",
+    "mean_score_prediction": 4.291651967912912
+  },
+  {
+    "image_id": "721f7039d9c5928e9a2c9a65bfeaa125",
+    "mean_score_prediction": 4.787831120193005
+  },
+  {
+    "image_id": "722e10d13f8b241bcd40b01733f7c3cb",
+    "mean_score_prediction": 5.807802699506283
+  },
+  {
+    "image_id": "722f9f87c38c62c5d0500e81413ba6e5",
+    "mean_score_prediction": 4.825874283909798
+  },
+  {
+    "image_id": "723a21d091e9f5c50f6399ebbd15415e",
+    "mean_score_prediction": 5.386955536901951
+  },
+  {
+    "image_id": "723a4045e4085ff0a12b43d8a0f34c54",
+    "mean_score_prediction": 5.076963491737843
+  },
+  {
+    "image_id": "723cf6fc73b3cd56d777b3595383d2b0",
+    "mean_score_prediction": 5.2999806851148605
+  },
+  {
+    "image_id": "72561ce1373b2956ea571af24b9393cd",
+    "mean_score_prediction": 5.26006481051445
+  },
+  {
+    "image_id": "72566b27234abc99928f7a38009ff0cf",
+    "mean_score_prediction": 3.8541815876960754
+  },
+  {
+    "image_id": "7259273caf25ba909013b953bb63076c",
+    "mean_score_prediction": 5.147063285112381
+  },
+  {
+    "image_id": "725a18ab58fc5c276a8c424d4be0dac1",
+    "mean_score_prediction": 5.188132531940937
+  },
+  {
+    "image_id": "725c9974b74258a5f1dccd8631feae59",
+    "mean_score_prediction": 4.907328255474567
+  },
+  {
+    "image_id": "725eadd7a7673c25460743352a46c641",
+    "mean_score_prediction": 4.760246850550175
+  },
+  {
+    "image_id": "726f589971edff773dd3dfd9303d4aa3",
+    "mean_score_prediction": 5.060464926064014
+  },
+  {
+    "image_id": "72797a88541d398a61c0fe85a0308df0",
+    "mean_score_prediction": 5.335166610777378
+  },
+  {
+    "image_id": "7279df64b5cc81da8e1ed86dbf2ef013",
+    "mean_score_prediction": 4.865731209516525
+  },
+  {
+    "image_id": "72878e96e29d43c6f0d5f32eccf494a8",
+    "mean_score_prediction": 5.20447102189064
+  },
+  {
+    "image_id": "72895d2a6f1e73686d5fb0630b742b17",
+    "mean_score_prediction": 4.826733238995075
+  },
+  {
+    "image_id": "72899fd479f3df76e9af9dbb0eec2a06",
+    "mean_score_prediction": 5.1705804243683815
+  },
+  {
+    "image_id": "728bba055173f18dc9008593ff2a4766",
+    "mean_score_prediction": 5.27178617566824
+  },
+  {
+    "image_id": "728c8841df2b2b6589ea1a7bd5f8f775",
+    "mean_score_prediction": 5.463211137801409
+  },
+  {
+    "image_id": "729200801df548d84f27a63beb20344b",
+    "mean_score_prediction": 4.895719654858112
+  },
+  {
+    "image_id": "7296bd19e75e300ea1f815b454382517",
+    "mean_score_prediction": 5.4719129502773285
+  },
+  {
+    "image_id": "72b33c9c368d86648b756143ab19baeb",
+    "mean_score_prediction": 5.224071729928255
+  },
+  {
+    "image_id": "72ba27091186d142c629921c55d11d66",
+    "mean_score_prediction": 5.077789403498173
+  },
+  {
+    "image_id": "72bfd1aa52ebdc4fcb16efd8ea6b7b50",
+    "mean_score_prediction": 4.948766812682152
+  },
+  {
+    "image_id": "72c16d672632032ad7460391b1f9d087",
+    "mean_score_prediction": 5.070444103330374
+  }
+]
