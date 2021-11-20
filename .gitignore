@@ -131,3 +131,6 @@ dmypy.json
 # Data
 #Images
 *.jpg
+
+# My files
+train_predict_eval.py

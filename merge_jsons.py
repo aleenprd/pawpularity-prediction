@@ -1,17 +1,30 @@
-# %%
-import os 
-import json 
+"""Script to merge some JSON files of the image quality scores."""
 
-curDir = os.getcwd()
-scoresFolder = f"{curDir}/data/image-quality"
-scoresFileNames = os.listdir(scoresFolder)
 
-def merge_json_files(fileNames, filesFolder, mergedFileName):
+import os
+import json
+
+
+def merge_json_files(
+    file_names: str,
+    files_folder: str,
+    merged_file_name: str
+) -> None:
+    """Merge several JSON files into one."""
     result = list()
-    for f in fileNames:
-        with open(f"{filesFolder}\\{f}", 'r') as infile:
+    for f in file_names:
+        with open(f"{files_folder}/{f}", 'r') as infile:
             result.extend(json.load(infile))
-    with open(f"{filesFolder}\\{mergedFileName}", 'w') as outputFile:
-        json.dump(result,outputFile)
+    with open(f"{files_folder}/{merged_file_name}", 'w') as output_file:
+        json.dump(result, output_file)
 
-merge_json_files(scoresFileNames, scoresFolder, f"merged_json_img_quality_scores.json")
+
+if __name__ == "__main__":
+    scores_folder = "data/image-quality"
+    scores_file_names = os.listdir(scores_folder)
+
+    merge_json_files(
+        scores_file_names,
+        scores_folder,
+        "merged_json_img_quality_scores.json"
+        )
